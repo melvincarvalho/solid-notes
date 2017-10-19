@@ -6,3 +6,23 @@ seeAlso
 
 [https://github.com/solid/node-solid-server/issues/609](https://github.com/solid/node-solid-server/issues/609)
 
+Example config
+
+```
+{
+  "root": "/home/ruben/tmp/node-solid-server/data",
+  "port": "5500",
+  "serverUri": "https://drive.verborgh.org",
+  "webid": true,
+  "mount": "/",
+  "configPath": "./config",
+  "dbPath": "./.db",
+  "idp": false,
+  "corsProxy": "/proxy",
+  "auth": "tls",
+  "certificateHeader": "X-Client-Certificate"
+}
+```
+
+
+
