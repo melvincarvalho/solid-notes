@@ -10,3 +10,7 @@ Demo \(test\) : [https://solidtest.space/](https://solidtest.space/)
 
 Solid consists of distributed servers and clients, each exposing and consuming a data layer.
 
+Reference server: [https://github.com/solid/node-solid-server](https://github.com/solid/node-solid-server)
+
+Reference client: Any browser, native apps can be built
+
