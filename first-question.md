@@ -6,3 +6,7 @@ Spec: [https://github.com/solid/solid](https://github.com/solid/solid)
 
 Demo \(test\) : [https://solidtest.space/](https://solidtest.space/)
 
+**For Developers**
+
+Solid consists of distributed servers and clients, each exposing and consuming a data layer.
+
