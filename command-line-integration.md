@@ -36,3 +36,7 @@ but that functionality needs to be implemented.
 
 how to register at the /register endpoint, which params to provide, and document it
 
+Example:
+
+[https://solidtest.space/register](https://solidtest.space/register)
+
