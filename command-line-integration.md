@@ -6,5 +6,11 @@ Solid server in TLS mode \(gold / node-solid-server auth=tls\) can operate via c
 
 OIDC
 
+Steps
+
+* gets the client\_id / client\_secret
+
+* uses those two to get back the bearer token
+
 
 
