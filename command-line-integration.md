@@ -34,5 +34,5 @@ but that functionality needs to be implemented.
 
 **Howto**
 
-
+how to register at the /register endpoint, which params to provide, and document it
 
