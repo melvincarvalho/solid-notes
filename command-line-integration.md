@@ -40,3 +40,7 @@ Example:
 
 [https://solidtest.space/register](https://solidtest.space/register)
 
+https://github.com/solid/webid-oidc-spec/blob/master/example-workflow.md\#23-dynamic-client-registration-first-time-only
+
+If this is the first time a Provider and a Relying Party are encountering each other, the RP must perform Dynamic Client Registration. Note: This is an operation that happens under the hood, and does not involve the user. All compliant OIDC clients have this functionality built in.
+
