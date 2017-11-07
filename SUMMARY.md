@@ -8,4 +8,5 @@
 * [Setting up a dev environment](setting-up-a-dev-environment.md)
 * Running a test solid app
 * [Solid servers](solid-servers.md)
+* [Installing](installing.md)
 
