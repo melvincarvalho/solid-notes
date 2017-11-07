@@ -6,4 +6,6 @@
 * [Solid App Set](solid-app-set.md)
 * [Command Line Integration](command-line-integration.md)
 * [Setting up a dev environment](setting-up-a-dev-environment.md)
+* Running a test solid app
+* [Solid servers](solid-servers.md)
 
