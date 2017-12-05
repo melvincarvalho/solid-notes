@@ -9,4 +9,5 @@
 * Running a test solid app
 * [Solid servers](solid-servers.md)
 * [Installing](installing.md)
+* [Access Control](access-control.md)
 
