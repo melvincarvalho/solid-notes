@@ -10,4 +10,5 @@
 * [Solid servers](solid-servers.md)
 * [Installing](installing.md)
 * [Access Control](access-control.md)
+* [Sign Up](sign-up.md)
 
