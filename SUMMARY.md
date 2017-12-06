@@ -11,4 +11,5 @@
 * [Installing](installing.md)
 * [Access Control](access-control.md)
 * [Sign Up](sign-up.md)
+* [Keygen](keygen.md)
 
