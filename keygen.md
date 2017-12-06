@@ -18,11 +18,11 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 **Tag Guidance**
 
-[https://github.com/w3ctag/wiki/wiki/keygen](https://github.com/w3ctag/wiki/wiki/keygen)
+https://w3ctag.github.io/client-certificates/
+
+
 
 **Keygen pages**
-
-
 
 **Browser Compatibility**
 
