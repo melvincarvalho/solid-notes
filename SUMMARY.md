@@ -14,4 +14,5 @@
 * [Keygen](keygen.md)
 * [Releasing Code](releasing-code.md)
 * Onboarding
+* [Troubleshooting](troubleshooting.md)
 
