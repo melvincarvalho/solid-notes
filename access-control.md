@@ -4,11 +4,13 @@ Main Solid Spec : [https://github.com/solid/web-access-control-spec](https://git
 
 WAC wiki : [https://www.w3.org/wiki/WebAccessControl](https://www.w3.org/wiki/WebAccessControl)
 
-
-
 **Understanding Origins**
 
 Todo : add a test where a user from a certain origin requests access but both are in different rdf objects
+
+Origin Acl in test
+
+
 
 
 
