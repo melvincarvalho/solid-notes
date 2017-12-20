@@ -16,4 +16,5 @@
 * [Onboarding](onboarding.md)
 * [Troubleshooting](troubleshooting.md)
 * [User Agents](user-agents.md)
+* [Creating a WebID](creating-a-webid.md)
 
