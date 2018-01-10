@@ -18,4 +18,5 @@
 * [User Agents](user-agents.md)
 * [Creating a WebID](creating-a-webid.md)
 * [Security Vectors](security-vectors.md)
+* [Interop tests](interop-tests.md)
 
