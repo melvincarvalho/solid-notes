@@ -19,4 +19,5 @@
 * [Creating a WebID](creating-a-webid.md)
 * [Security Vectors](security-vectors.md)
 * [Interop tests](interop-tests.md)
+* [PM2](pm2.md)
 
