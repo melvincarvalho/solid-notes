@@ -30,7 +30,9 @@ Scripts
 
 [https://gist.github.com/njh/2432427/forks](https://gist.github.com/njh/2432427/forks)
 
-https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts
+[https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts](https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts)
+
+https://gist.github.com/olberger \# works!
 
 
 
