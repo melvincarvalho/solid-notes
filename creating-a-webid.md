@@ -6,7 +6,7 @@ By script
 
 Other
 
-**Generating a self signed X.509 cert** 
+**Generating a self signed X.509 cert**
 
 : [https://www.akadia.com/services/ssh\_test\_certificate.html](https://www.akadia.com/services/ssh_test_certificate.html)
 
@@ -20,8 +20,6 @@ $ openssl genrsa 2048 >../localhost.key
 $ openssl req -new -x509 -nodes -sha256 -days 3650 -key ../localhost.key -subj '/CN=*.localhost' > ../localhost.cert
 ```
 
-
-
 **Generating a WebID X.509 cert**
 
 Scripts
@@ -32,6 +30,7 @@ Scripts
 
 [https://gist.github.com/njh/2432427/forks](https://gist.github.com/njh/2432427/forks)
 
-  
+https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts
+
 
 
