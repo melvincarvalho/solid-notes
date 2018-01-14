@@ -32,7 +32,5 @@ Scripts
 
 [https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts](https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts)
 
-https://gist.github.com/olberger \# works!
-
-
+https://gist.github.com/olberger/7581570/raw \# works!
 
