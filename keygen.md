@@ -26,3 +26,9 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 
 
+##### Useful Links
+
+Stackoverflow keygen alternatives:
+
+https://security.stackexchange.com/questions/106257/alternatives-to-htmls-deprecated-keygen-for-client-certs
+
