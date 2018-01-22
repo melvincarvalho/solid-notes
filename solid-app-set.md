@@ -6,7 +6,7 @@ To Build : npm run build
 
 Requires : npm 4+
 
-Other Solutions
+#### Other Solutions
 
-https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj
+[https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj)
 
