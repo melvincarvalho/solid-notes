@@ -1,10 +1,10 @@
-**KEYGEN - What you need to know**
+### **KEYGEN - What you need to know**
 
-MDN Page
+#### MDN Page
 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen)
 
-Scary Warnings
+##### Scary Warnings
 
 1. Deprecated
 
@@ -16,13 +16,13 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 1. There is currently discussion among Web browser makers whether to keep this feature or not. Until a decision is reached, it is better to continue to consider this feature as deprecated and going away.
 
-**Tag Guidance**
+#### **Tag Guidance**
 
-https://w3ctag.github.io/client-certificates/
+[https://w3ctag.github.io/client-certificates/](https://w3ctag.github.io/client-certificates/)
+
+#### **Keygen pages**
+
+#### **Browser Compatibility**
 
 
-
-**Keygen pages**
-
-**Browser Compatibility**
 
