@@ -22,11 +22,15 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 #### Issues
 
-https://github.com/whatwg/html/issues/102
+[https://github.com/whatwg/html/issues/102](https://github.com/whatwg/html/issues/102)
 
 #### **Keygen pages**
 
 #### **Browser Compatibility**
+
+Working in Firefox
+
+Not working in Chrome, Opera
 
 #### Useful Links
 
