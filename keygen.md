@@ -50,7 +50,6 @@ organizationName=AA Ltd
 countryName=AA
 stateOrProvinceName=AA
 localityName=AA
-
 ```
 
 #### Client code
@@ -58,6 +57,10 @@ localityName=AA
 [https://gist.github.com/melvincarvalho/d9acb32ea07dbd4b3ca11f0e2d2756fe](https://gist.github.com/melvincarvalho/d9acb32ea07dbd4b3ca11f0e2d2756fe)
 
 #### Server Code
+
+make sure all the openssl cnf fields are populated
+
+optionally uncomment suject alternative name
 
 make sure index.txt is empty
 
