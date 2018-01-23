@@ -20,7 +20,7 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 [https://w3ctag.github.io/client-certificates/](https://w3ctag.github.io/client-certificates/)
 
-#### Issues
+#### Issues Raised
 
 [https://github.com/whatwg/html/issues/102](https://github.com/whatwg/html/issues/102)
 
@@ -31,6 +31,16 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 Working in Firefox
 
 Not working in Chrome, Opera
+
+#### Client code
+
+https://gist.github.com/melvincarvalho/d9acb32ea07dbd4b3ca11f0e2d2756fe
+
+#### Server Code
+
+make sure index.txt is empty
+
+openssl ca -batch -spkac /tmp/tmp1234.spkac -passin pass:a &gt; spkac.pem
 
 #### Useful Links
 
