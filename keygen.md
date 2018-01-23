@@ -66,6 +66,10 @@ make sure index.txt is empty
 
 openssl ca -batch -spkac /tmp/tmp1234.spkac -passin pass:a &gt; spkac.pem
 
+#### Questions
+
+Other relevant question are which browsers import them and export them, and which share the system keychain  \(timbl\)
+
 #### Useful Links
 
 Stackoverflow keygen alternatives:
