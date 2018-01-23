@@ -20,6 +20,10 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 [https://w3ctag.github.io/client-certificates/](https://w3ctag.github.io/client-certificates/)
 
+#### Issues
+
+https://github.com/whatwg/html/issues/102
+
 #### **Keygen pages**
 
 #### **Browser Compatibility**
@@ -32,5 +36,5 @@ Stackoverflow keygen alternatives:
 
 PHP reference
 
-http://phpmylogin.sourceforge.net/wiki/doku.php?id=keygen\_attribute
+[http://phpmylogin.sourceforge.net/wiki/doku.php?id=keygen\_attribute](http://phpmylogin.sourceforge.net/wiki/doku.php?id=keygen_attribute)
 
