@@ -12,7 +12,9 @@ Requires : npm 4+
 
 #### Screencasts
 
-https://timbl.com/Media/Public/2018/Solid/Meetulator-2.m4v
+[https://timbl.com/Media/Public/2018/Solid/Meetulator-2.m4v](https://timbl.com/Media/Public/2018/Solid/Meetulator-2.m4v)
+
+[https://www.youtube.com/watch?v=anSkgFhua4M](https://www.youtube.com/watch?v=anSkgFhua4M)
 
 
 
