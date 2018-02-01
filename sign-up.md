@@ -4,7 +4,7 @@
 
 ##### Recovery
 
-,account/newCert
+,accouns/cert
 
 ##### Elf's gist
 
