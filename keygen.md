@@ -4,7 +4,7 @@
 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen)
 
-##### Scary Warnings
+##### Warnings
 
 1. Deprecated
 
@@ -15,6 +15,10 @@ This feature has been removed from the Web standards. Though some browsers may s
 at the bottom of this page to guide your decision. Be aware that this feature may cease to work at any time.
 
 1. There is currently discussion among Web browser makers whether to keep this feature or not. Until a decision is reached, it is better to continue to consider this feature as deprecated and going away.
+
+#### Converting SSH to X.509
+
+https://gist.github.com/melvincarvalho/dbc6e9f010ecef08194d7cf1a523963d
 
 #### **Tag Guidance**
 
