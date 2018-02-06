@@ -1,5 +1,13 @@
 ### **KEYGEN - What you need to know**
 
+#### Databox.me
+
+1. Use Firefox Browser
+2. Go to https://databox.me/ and get a userID
+3. Note down your _**username**_
+4. Go to https://username.databox.me/,accounts/cert
+5. Enter your name and in the Webid https://username.databox.me/profile/card\#me
+
 #### MDN Page
 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Keygen)
@@ -18,7 +26,7 @@ at the bottom of this page to guide your decision. Be aware that this feature ma
 
 #### Converting SSH to X.509
 
-https://gist.github.com/melvincarvalho/dbc6e9f010ecef08194d7cf1a523963d
+[https://gist.github.com/melvincarvalho/dbc6e9f010ecef08194d7cf1a523963d](https://gist.github.com/melvincarvalho/dbc6e9f010ecef08194d7cf1a523963d)
 
 #### **Tag Guidance**
 
