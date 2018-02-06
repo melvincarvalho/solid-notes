@@ -3,10 +3,12 @@
 #### Databox.me
 
 1. Use Firefox Browser
-2. Go to https://databox.me/ and get a userID
+2. Go to [https://databox.me/](https://databox.me/) and get a userID
 3. Note down your _**username**_
-4. Go to https://username.databox.me/,accounts/cert
-5. Enter your name and in the Webid https://username.databox.me/profile/card\#me
+4. Go to [https://username.databox.me/,accounts/cert](https://username.databox.me/,accounts/cert)
+5. Enter your name and in the Webid [https://username.databox.me/profile/card\#me](https://username.databox.me/profile/card#me)
+
+https://gist.github.com/melvincarvalho/e14753a7137d02d756f19299fed292b4
 
 #### MDN Page
 
