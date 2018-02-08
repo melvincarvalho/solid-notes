@@ -1,4 +1,6 @@
-**Virtuoso**
+### Solid Servers
+
+#### **Virtuoso**
 
 1. Download Virtuoso
 
@@ -8,11 +10,13 @@
 
 Works with Open Source or Commercial Editions of Virtuoso.
 
-**Gold**
+#### **Gold**
 
-**Node-solid-server**
+#### **Node-solid-server**
 
-**RWW-play**
+#### **RWW-play**
 
+#### See Also
 
+https://github.com/solid/solid-platform/blob/master/README.md
 
