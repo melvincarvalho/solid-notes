@@ -1,4 +1,12 @@
-#### OIDC
+### OIDC
+
+#### WebId-OIDC spec
+
+##### https://github.com/solid/webid-oidc-spec/blob/master/README.md
+
+#### Motivation
+
+https://github.com/solid/webid-oidc-spec/blob/master/motivation.md
 
 #### SeeAlso
 
