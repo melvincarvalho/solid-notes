@@ -10,3 +10,7 @@ git push --tags
 
 npm publish
 
+_Requires permissions on npm_
+
+
+
