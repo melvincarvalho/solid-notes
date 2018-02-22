@@ -18,5 +18,7 @@ From Timbl : [https://medium.com/swlh/dont-kill-your-startup-with-bad-user-onboa
 * HOWTO :
   [Recover an account](https://gist.github.com/melvincarvalho/bcc04e1529dd3a4509892346109b1d37)
 
+NetID
 
+http://docs.openlinksw.com/valdocs/val\_services.html\#val\_services\_third\_party
 
