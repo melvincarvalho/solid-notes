@@ -4,11 +4,11 @@
 
 [https://github.com/OpenLinkSoftware/OSDS\_extension](https://github.com/OpenLinkSoftware/OSDS_extension)
 
-OpenLink Structured Data Editor
+#### OpenLink Structured Data Editor
 
-http://osde.openlinksw.com/
+[http://osde.openlinksw.com/](http://osde.openlinksw.com/)
 
-https://github.com/openlink/rdf-editor
+[https://github.com/openlink/rdf-editor](https://github.com/openlink/rdf-editor)
 
 #### Dokei.li extension
 
