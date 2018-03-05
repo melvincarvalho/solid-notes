@@ -14,7 +14,19 @@ A: With WebID-TLS you can manipulate \(operate on\) RDF sentences in target RDF 
 
 ### Panes
 
-#### How do I flesh out items related to my Meeting e.g., links to other documents etc? 
+#### How do I flesh out items related to my Meeting e.g., links to other documents etc?
 
 Various text input fields exist across solid-apps \(e.g., Meetulator, Chat etc..\), so place URIs in any of these with create a draggable object that can be dropped atop any of the visible panes of a particular app instance.
+
+### How do I delete a solid-app pane \(nee Gadget\)?
+
+Select pane, and then click the ALT key -- this reveals a UI completing task.
+
+**SeeAlso**
+
+1. [https://gitter.im/solid/node-solid-server?at=5a959532888332ee3adc5c27](https://gitter.im/solid/node-solid-server?at=5a959532888332ee3adc5c27)
+
+2. [https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5](https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5)
+
+
 
