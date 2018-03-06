@@ -38,3 +38,5 @@ Currently 20 minutes
 
 [https://stackoverflow.com/questions/25686484/what-is-intent-of-id-token-expiry-time-in-openid-connect](https://stackoverflow.com/questions/25686484/what-is-intent-of-id-token-expiry-time-in-openid-connect)
 
+https://www.oauth.com/oauth2-servers/access-tokens/access-token-lifetime/
+
