@@ -10,6 +10,12 @@
 
 [https://github.com/openlink/rdf-editor](https://github.com/openlink/rdf-editor)
 
+youid
+
+http://youid.openlinksw.com
+
+
+
 #### Dokei.li extension
 
 [https://chrome.google.com/webstore/detail/dokieli/ddmhaonbhodhgkaljpjlglodncddalid](https://chrome.google.com/webstore/detail/dokieli/ddmhaonbhodhgkaljpjlglodncddalid)
