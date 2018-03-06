@@ -28,9 +28,15 @@ Select pane, and then click the ALT key -- this reveals a UI completing task.
 
 2. [https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5](https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5)
 
-
-
 #### What is the expiry time for an OIDC token?
 
-#### 
+Currently 20 minutes
+
+[https://github.com/solid/node-solid-server/blob/dea121afbb92dd8e9ef8929d1d09246cd5ba5180/lib/models/token-service.js\#L15](https://github.com/solid/node-solid-server/blob/dea121afbb92dd8e9ef8929d1d09246cd5ba5180/lib/models/token-service.js#L15)
+
+> In OpenID Connect an access token has an expiry time. For authorization code flow, this is typically short \(eg 20 minutes\) after which you use the refresh token to request a new access token.
+
+https://stackoverflow.com/questions/25686484/what-is-intent-of-id-token-expiry-time-in-openid-connect
+
+
 
