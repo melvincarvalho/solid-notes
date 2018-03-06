@@ -10,11 +10,11 @@
 
 [https://github.com/openlink/rdf-editor](https://github.com/openlink/rdf-editor)
 
-youid
+#### youid
 
-http://youid.openlinksw.com
+#### [http://youid.openlinksw.com](http://youid.openlinksw.com)
 
-
+#### http://ods-qa.openlinksw.com/youid/
 
 #### Dokei.li extension
 
