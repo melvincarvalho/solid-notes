@@ -12,5 +12,3 @@ npm publish
 
 _Requires permissions on npm_
 
-
-
