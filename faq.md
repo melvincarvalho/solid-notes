@@ -12,6 +12,10 @@ See : [https://gist.github.com/melvincarvalho/e14753a7137d02d756f19299fed292b4](
 
 A: With WebID-TLS you can manipulate \(operate on\) RDF sentences in target RDF documents \(content-type negotiable\) using a single HTTP Request using CURL. You need a series of CURL invocations to achieve that with WebID-OIDC due to the nature of different flows associated with said protocol.
 
+#### What about CSRF
+
+https://gitter.im/solid/node-solid-server?at=5accc3697c3a01610dc98575
+
 #### What is the expiry time for an OIDC access token?
 
 Currently 20 minutes
