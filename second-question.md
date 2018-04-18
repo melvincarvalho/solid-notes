@@ -24,5 +24,9 @@ Example config
 }
 ```
 
+##### How can I redirect traffic from port 80?
+
+`    "redirectHTTPFrom": 80`
+
 
 
