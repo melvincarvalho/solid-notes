@@ -1,6 +1,6 @@
-### **Solid App Set**
+### **Solid Panes**
 
-#### Solid app set is a set of apps for browsing data with a rich UI.
+### Solid app set is a set of apps for browsing data with a rich UI.
 
 To Build : npm run build
 
@@ -16,5 +16,5 @@ Requires : npm 4+
 
 [https://www.youtube.com/watch?v=anSkgFhua4M](https://www.youtube.com/watch?v=anSkgFhua4M)
 
-http://dig.csail.mit.edu/2007/tab/tutorial/editing.mov \(older\)
+[http://dig.csail.mit.edu/2007/tab/tutorial/editing.mov](http://dig.csail.mit.edu/2007/tab/tutorial/editing.mov) \(older\)
 
