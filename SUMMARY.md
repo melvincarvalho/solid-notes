@@ -26,4 +26,5 @@
 * [OIDC](oidc.md)
 * [FAQ](faq.md)
 * [Screencasts](screencasts.md)
+* [Ubuntu 18.04](ubuntu-1804.md)
 
