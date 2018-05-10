@@ -42,6 +42,10 @@ As per Installation chapter
 
 ```
 sudo apt-get install git haproxy letsencrypt npm
+git clone https://github.com/solid/node-solid-server.git
+cd node-solid-server
+npm install
+
 ```
 
 
