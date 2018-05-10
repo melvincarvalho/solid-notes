@@ -45,7 +45,10 @@ sudo apt-get install git haproxy letsencrypt npm
 git clone https://github.com/solid/node-solid-server.git
 cd node-solid-server
 npm install
+openssl genrsa 2048 > ./localhost.key
+openssl req -new -x509 -nodes -sha256 -days 3650 -key ./localhost.key -subj '/CN=*.localhost' > ./localhost.cert
 
+bin/solid init
 ```
 
 
