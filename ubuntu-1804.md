@@ -12,15 +12,13 @@ To log into a scaleway server locate the IP addres and ssh to root@ip-address. T
 
 Install sudo
 
-
-
 **Create a User**
 
 It is not desirable to run as root, so it is possible to add a user, ubuntu is selected here.
 
 ```
 useradd -m ubuntu
-sudo usermod -a -G sudo ubuntu
+usermod -a -G sudo ubuntu
 passwd ubuntu
 ```
 
