@@ -49,6 +49,7 @@ openssl genrsa 2048 > ./localhost.key
 openssl req -new -x509 -nodes -sha256 -days 3650 -key ./localhost.key -subj '/CN=*.localhost' > ./localhost.cert
 
 bin/solid init
+bin/solid-test start -v
 ```
 
 
