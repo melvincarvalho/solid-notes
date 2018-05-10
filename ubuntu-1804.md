@@ -34,5 +34,15 @@ chown ubuntu:ubuntu /home/ubuntu/.ssh/*
 chsh -s /bin/bash ubuntu
 ```
 
+### 2. Installation {#2-installation}
+
+**Install pre requisites**
+
+As per Installation chapter
+
+```
+sudo apt-get install git haproxy letsencrypt npm
+```
+
 
 
