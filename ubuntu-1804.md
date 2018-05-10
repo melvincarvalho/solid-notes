@@ -1,7 +1,5 @@
 Testing setup on ubuntu 18.04
 
-
-
 ### 1. Instance prep {#1-instance-prep�}
 
 **Select A Server**
@@ -11,6 +9,10 @@ Scaleway offers a number of servers. At time of writing it is possible to run a 
 **Log in to the machine**
 
 To log into a scaleway server locate the IP addres and ssh to root@ip-address. This will log you in as root.
+
+Install sudo
+
+
 
 **Create a User**
 
