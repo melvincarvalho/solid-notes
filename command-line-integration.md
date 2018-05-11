@@ -44,3 +44,19 @@ Example:
 
 If this is the first time a Provider and a Relying Party are encountering each other, the RP must perform Dynamic Client Registration. Note: This is an operation that happens under the hood, and does not involve the user. All compliant OIDC clients have this functionality built in.
 
+
+
+Notes
+
+
+
+
+
+so you either have to a\) curl POST your credentials to an /auth/tls or /auth/password endpoint, get a cookie, and then b\) send that cookie with further curl requests
+
+OR
+
+do the Dynamic Registration + OAuth2 dance, which requires listening on a port for callback, etc.
+
+so like, the cookie approach, it's not too bad \(in terms of, it's 2 steps instead of 1\), but it's only useful for talking to 1 pod at a time
+
