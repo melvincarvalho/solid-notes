@@ -56,7 +56,9 @@ Letsencrypt
 
 sudo certbot -d host -d "\*.host" --manual --preferred-challenges dns certonly --server [https://acme-v02.api.letsencrypt.org/directory](https://acme-v02.api.letsencrypt.org/directory)
 
+Change host to the one you use
+
+Move certs to config locations
+
 HaProxy
-
-
 
