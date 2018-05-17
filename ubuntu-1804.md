@@ -52,7 +52,17 @@ bin/solid init
 bin/solid-test start -v
 ```
 
-3. LetsEncrypt
+
+
+
+
+Letsencrypt
+
+sudo certbot -d host -d "\*.host" --manual --preferred-challenges dns certonly --server https://acme-v02.api.letsencrypt.org/directory
+
+
+
+
 
 
 
