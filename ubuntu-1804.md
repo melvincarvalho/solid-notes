@@ -32,6 +32,7 @@ chown ubuntu:ubuntu /home/ubuntu/.ssh/*
 
 ```
 chsh -s /bin/bash ubuntu
+apt install sudo
 ```
 
 ### 2. Installation {#2-installation}
