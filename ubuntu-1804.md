@@ -47,7 +47,7 @@ git clone https://github.com/solid/node-solid-server.git
 cd node-solid-server
 npm install
 openssl genrsa 2048 > ./privkey.pem
-openssl req -new -x509 -nodes -sha256 -days 3650 -key ./localhost.key -subj '/CN=*.localhost' > ./fullchain.pem
+openssl req -new -x509 -nodes -sha256 -days 3650 -key ./privkey.pem -subj '/CN=*.localhost' > ./fullchain.pem
 
 bin/solid init
 bin/solid-test start -v

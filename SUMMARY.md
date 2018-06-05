@@ -28,4 +28,5 @@
 * [Screencasts](screencasts.md)
 * [Ubuntu 18.04](ubuntu-1804.md)
 * [Merging code](merging-code.md)
+* [Work Arounds](work-arounds.md)
 
