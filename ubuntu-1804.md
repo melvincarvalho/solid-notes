@@ -63,3 +63,5 @@ Move certs to config locations
 
 HaProxy
 
+Add one UNIX user per solid user 
+
