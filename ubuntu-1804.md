@@ -63,5 +63,5 @@ Move certs to config locations
 
 HaProxy
 
-Add one UNIX user per solid user 
+Add one UNIX user per solid user, then make a symbolic link for their data space -- issue is with new directories
 
