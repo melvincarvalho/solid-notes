@@ -50,6 +50,10 @@ Select pane, and then click the ALT key -- this reveals a UI completing task.
 
 You can always use an IP address as your WebID if you choose. The role of DNS in the Solid Project is no different to what it is re. TCP/IP at large i.e., it resolves names to numbers. \(kidehen\)
 
+#### Is that possible use solid without a running server? Or do I need something listening 7 x 24 for app requests? I would like to have something locally-ish
+
+I've run solid on a phone before. But a server has the advantage of being always online, so you dont miss stuff.
+
 #### 
 
 
