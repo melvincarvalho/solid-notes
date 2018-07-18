@@ -54,6 +54,8 @@ You can always use an IP address as your WebID if you choose. The role of DNS in
 
 I've run solid on a phone before. But a server has the advantage of being always online, so you dont miss stuff.
 
+You can use solid apps on someone else’s server of course, like solid.community.. You can a server on localhost. With aborwser extension ou can use it in file:// space in principle… we did that in earlier projects \(timbl\)
+
 #### 
 
 
