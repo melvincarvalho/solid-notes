@@ -56,7 +56,9 @@ I've run solid on a phone before. But a server has the advantage of being always
 
 You can use solid apps on someone else’s server of course, like solid.community.. You can a server on localhost. With aborwser extension ou can use it in file:// space in principle… we did that in earlier projects \(timbl\)
 
-#### 
+### Would changing IPs be an issue in the case of running it locally? Not sure how apps could find me if my address is dinamic 
+
+I use https://www.noip.com/
 
 
 
