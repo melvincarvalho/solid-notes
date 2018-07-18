@@ -14,7 +14,7 @@ A: With WebID-TLS you can manipulate \(operate on\) RDF sentences in target RDF 
 
 #### What about CSRF
 
-https://gitter.im/solid/node-solid-server?at=5accc3697c3a01610dc98575
+[https://gitter.im/solid/node-solid-server?at=5accc3697c3a01610dc98575](https://gitter.im/solid/node-solid-server?at=5accc3697c3a01610dc98575)
 
 #### What is the expiry time for an OIDC access token?
 
@@ -43,6 +43,12 @@ Select pane, and then click the ALT key -- this reveals a UI completing task.
 1. [https://gitter.im/solid/node-solid-server?at=5a959532888332ee3adc5c27](https://gitter.im/solid/node-solid-server?at=5a959532888332ee3adc5c27)
 
 2. [https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5](https://gitter.im/solid/node-solid-server?at=5a959f090202dc012e9136a5)
+
+### **Architecture**
+
+### **Does Solid rely on DNS**
+
+You can always use an IP address as your WebID if you choose. The role of DNS in the Solid Project is no different to what it is re. TCP/IP at large i.e., it resolves names to numbers. \(kidehen\)
 
 #### 
 
