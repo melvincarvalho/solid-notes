@@ -10,5 +10,11 @@ WebID with delegation
 
 SAFE network
 
-https://safenetforum.org/t/devcon-talk-supercharging-the-safe-network-with-project-solid/23081
+[https://safenetforum.org/t/devcon-talk-supercharging-the-safe-network-with-project-solid/23081](https://safenetforum.org/t/devcon-talk-supercharging-the-safe-network-with-project-solid/23081)
+
+Atom Graph linked data hub
+
+https://www.youtube.com/watch?v=GfABeVT5y-0
+
+
 
