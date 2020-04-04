@@ -1,4 +1,8 @@
+# What is Solid?
+
 **What is solid?**
+
+Solid is a webization of the file system leading to a web operating system
 
 Slides : [https://solid.github.io/intro-to-solid-slides/\#1](https://solid.github.io/intro-to-solid-slides/#1)
 
@@ -15,8 +19,4 @@ Solid consists of distributed servers and clients, each exposing and consuming a
 Reference server: [https://github.com/solid/node-solid-server](https://github.com/solid/node-solid-server)
 
 Reference client: Any browser, native apps can be built
-
-
-
-
 
