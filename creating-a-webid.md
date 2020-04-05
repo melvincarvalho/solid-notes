@@ -1,4 +1,6 @@
-Browsers
+The following is a guide to creating a webid with public key for use with WebID-TLS
+
+**Browsers**
 
 By hand
 
@@ -32,5 +34,5 @@ Scripts
 
 [https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts](https://github.com/AtomGraph/LinkedDataHub/tree/master/scripts)
 
-https://gist.github.com/olberger/7581570/raw \# works!
+[https://gist.github.com/olberger/7581570/raw](https://gist.github.com/olberger/7581570/raw) \# works!
 
